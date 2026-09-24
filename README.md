@@ -9,7 +9,7 @@ I'm a data analyst passionate about turning raw data into meaningful insights th
 - Python
 
 ## My projects
--
+-[Apple-sales-analysis](https://github.com/abdulraheem200-analyst/pizza-sales-analysis)
 
 ## Currently Learning 
 - Advance SQL
